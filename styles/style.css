@@ -1,0 +1,40 @@
+html {
+    background-color: #012522;
+    padding-left: 0px;
+    padding-right: 1500;
+    width: 1300px;
+  }
+
+ header {
+    color: #ffffff;
+    } 
+ h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #ffffff;
+    }
+ h2 {
+    font-size: 15px;
+    margin: 0;
+    padding: 20px 0;
+    color: #ffffff;
+    }
+nav {
+        text-align: right;
+        padding: 20px 0;
+        color: #ffffff;
+        }
+a:link { 
+            color: rgb(255, 255, 255); 
+          }
+a:visited { 
+            color: rgb(255, 255, 255); 
+          }
+ main {
+     font-size: 15px;
+     color: #ffffff;
+     } 
+     
+ footer {
+        color: #ffffff;
+        } 
