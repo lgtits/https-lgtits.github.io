@@ -1,2 +1,2 @@
-# https-lgtits.github.io
+# lgtits.github.io
 Transvision
